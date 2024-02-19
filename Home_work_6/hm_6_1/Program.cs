@@ -1,6 +1,6 @@
 ﻿char[,] charArray = new char[,] {
-    {'H', 'e', 'l', 'l', 'o'},
-    {'W', 'o', 'r', 'l', 'd'}
+    {'S', 'N', 'O', 'O', 'P'},
+    {'D', 'O', 'O', 'O', 'G'}
 };
 
 string result = string.Join(" ", charArray.Cast<char>());
