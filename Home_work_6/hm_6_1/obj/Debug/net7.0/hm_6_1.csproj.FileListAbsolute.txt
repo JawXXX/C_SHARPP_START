@@ -1,0 +1,14 @@
+C:\Users\jaws_\Desktop\c#_Start_2\Home_work_6\hm_6_1\bin\Debug\net7.0\hm_6_1.exe
+C:\Users\jaws_\Desktop\c#_Start_2\Home_work_6\hm_6_1\bin\Debug\net7.0\hm_6_1.deps.json
+C:\Users\jaws_\Desktop\c#_Start_2\Home_work_6\hm_6_1\bin\Debug\net7.0\hm_6_1.runtimeconfig.json
+C:\Users\jaws_\Desktop\c#_Start_2\Home_work_6\hm_6_1\bin\Debug\net7.0\hm_6_1.dll
+C:\Users\jaws_\Desktop\c#_Start_2\Home_work_6\hm_6_1\bin\Debug\net7.0\hm_6_1.pdb
+C:\Users\jaws_\Desktop\c#_Start_2\Home_work_6\hm_6_1\obj\Debug\net7.0\hm_6_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaws_\Desktop\c#_Start_2\Home_work_6\hm_6_1\obj\Debug\net7.0\hm_6_1.AssemblyInfoInputs.cache
+C:\Users\jaws_\Desktop\c#_Start_2\Home_work_6\hm_6_1\obj\Debug\net7.0\hm_6_1.AssemblyInfo.cs
+C:\Users\jaws_\Desktop\c#_Start_2\Home_work_6\hm_6_1\obj\Debug\net7.0\hm_6_1.csproj.CoreCompileInputs.cache
+C:\Users\jaws_\Desktop\c#_Start_2\Home_work_6\hm_6_1\obj\Debug\net7.0\hm_6_1.dll
+C:\Users\jaws_\Desktop\c#_Start_2\Home_work_6\hm_6_1\obj\Debug\net7.0\refint\hm_6_1.dll
+C:\Users\jaws_\Desktop\c#_Start_2\Home_work_6\hm_6_1\obj\Debug\net7.0\hm_6_1.pdb
+C:\Users\jaws_\Desktop\c#_Start_2\Home_work_6\hm_6_1\obj\Debug\net7.0\hm_6_1.genruntimeconfig.cache
+C:\Users\jaws_\Desktop\c#_Start_2\Home_work_6\hm_6_1\obj\Debug\net7.0\ref\hm_6_1.dll
